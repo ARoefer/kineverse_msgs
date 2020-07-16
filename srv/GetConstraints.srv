@@ -1,0 +1,3 @@
+string[] symbols
+---
+kineverse_msgs/Constraint[] constraints
